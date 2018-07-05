@@ -66,8 +66,7 @@
   "description": "Puppet module for installing Uchiwa",
   "dependencies": [
     {
-      "name": "puppetlabs/apt",
-      "version_requirement": ">=2.0.0 <3.0.0"
+      "name": "puppetlabs/apt"
     },
     {
       "name": "puppetlabs/stdlib"
